@@ -1,0 +1,9 @@
+{
+	"name": "rbireport-factory",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "12ad51be-ac3c-4a53-9d52-c60f6d1b4da4",
+		"tenantId": "eb0add10-4934-4d8a-8066-1a27be598718"
+	}
+}
